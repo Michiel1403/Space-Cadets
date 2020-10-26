@@ -1,4 +1,15 @@
 clear X;
-while X not 1000000 do;
-	incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+clear Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+while X not 0 do;
+	incr Y;
+	decr X;
 end;

@@ -1,0 +1,4 @@
+clear X;
+while X not 1000000 do;
+	incr X;
+end;

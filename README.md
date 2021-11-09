@@ -1,3 +1,4 @@
+#Space Cadets Challenge 1
 Challenge Description from HTML file in repository:
 
 The colonies have been attacked by an alien race and human civilisation has been decimated. It is known how many survivors are left and much of the infrastructure is still intact. You are onboard one of the few remaining vessels, on a team tasked with making contact with the surviving science team on earth to rebuild our research and development, and fight back.
